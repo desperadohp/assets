@@ -1,0 +1,11 @@
+{
+    "name": "LTD",
+    "symbol": "LTD",
+    "type": "TRC10",
+    "decimals": 5,
+    "description": "Happy Together",
+    "website": "https://www.ltdtoken.org/",
+    "explorer": "https://tronscan.io/#/token/1004718",
+    "status": "active",
+    "id": "1004718"
+}
